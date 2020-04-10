@@ -1,0 +1,5 @@
+tools_dbforge_download: "http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/dbforgemysql81exp.exe"
+tools_dbforge_install: False
+
+tools_sqlbackupmaster_download: "http://libs-websoft9-com.oss-cn-qingdao.aliyuncs.com/apps/Windows/dbforgemysql81exp.exe"
+tools_sqlbackupmaster_install: False
