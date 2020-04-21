@@ -7,7 +7,6 @@
 - name: Install SQLBackupMaster
   win_package:
     path: C:\temp\sqlbackupmaster.exe
-    product_id: ?
+    product_id: sqlbackupmaster
     arguments:
-        - /?
-        - /?
+        - /q
